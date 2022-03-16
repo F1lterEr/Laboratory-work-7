@@ -95,7 +95,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.print("Введите желаемый вид животного (Panther, Gorilla): "); // что есть то есть )
+        System.out.print("Введите желаемый вид животного (Panther, Gorilla): ");
         String animal = in.nextLine();
         System.out.print("Введите название еды: ");
         String food = in.nextLine();
